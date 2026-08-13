@@ -1,10 +1,17 @@
 <div align="center">
 
-# Mostafa Kamel
+<h1>Mostafa Kamel</h1>
 
-### Backend Developer | Node.js | TypeScript
+<h3>Backend Developer | Node.js | TypeScript</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Secure+RESTful+APIs;Real-Time+Applications+with+Socket.IO;Redis+%7C+BullMQ+%7C+PostgreSQL;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Backend+Systems;Designing+Secure+RESTful+APIs;Real-Time+Applications+with+Socket.IO;Redis+%7C+BullMQ+%7C+PostgreSQL;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;Application+Security+%7C+AI+%7C+LLM+Integration" />
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=header&animation=twinkling" width="100%" />
 
 <br>
 
