@@ -1,23 +1,21 @@
-<h1 align="center">
-  👋 Hi, I'm Mostafa Kamel
-</h1>
+<h1 align="center">👋 Hi, I'm Mostafa Kamel</h1>
+
+<h3 align="center">
+  Backend Developer | Node.js | TypeScript
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Node.js+%7C+TypeScript+Developer;Building+Scalable+Backend+Systems;REST+APIs+%7C+Real-Time+Applications;Application+Security+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Designing+Secure+REST+APIs;Real-Time+Applications+with+Socket.IO;Redis+%7C+BullMQ+%7C+PostgreSQL+%7C+Prisma;Exploring+AI+%7C+LLMs+%7C+Application+Security" alt="Backend Developer Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postgresql,prisma,redis,docker" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-kamel-2a1023314?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <b>Backend Developer focused on building scalable, secure and production-ready systems.</b>
 </p>
 
 ---
