@@ -1,22 +1,18 @@
 <div align="center">
 
-<h1>Mostafa Kamel</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:21262D&height=180&section=header&text=Mostafa%20Kamel&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%" />
 
-<h3>Backend Developer | Node.js | TypeScript</h3>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Backend+Systems;Designing+Secure+RESTful+APIs;Real-Time+Applications+with+Socket.IO;Redis+%7C+BullMQ+%7C+PostgreSQL;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;Application+Security+%7C+AI+%7C+LLM+Integration" />
+<h2>Backend Developer | Node.js | TypeScript</h2>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Building+Scalable+Backend+Systems;Designing+Secure+RESTful+APIs;Real-Time+Applications+with+Socket.IO;Redis+%7C+BullMQ+%7C+PostgreSQL;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;Application+Security+%7C+AI+%7C+LLM+Integration" />
+
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=header&animation=twinkling" width="100%" />
-
 <br>
 
 <a href="https://www.linkedin.com/in/mostafa-kamel-2a1023314?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -160,6 +156,6 @@ Built an end-to-end NLP pipeline for spam classification.
 
 ### 🚀 Building. Learning. Improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
