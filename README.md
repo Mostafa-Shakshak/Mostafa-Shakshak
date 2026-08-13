@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:21262D&height=180&section=header&text=Mostafa%20Kamel&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%" />
+<img src="<img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B53,50:3A506B,100:526D82&height=180&section=header&text=Mostafa%20Kamel&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%" />" />
 
 <h2>Backend Developer | Node.js | TypeScript</h2>
 
