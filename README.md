@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mostafa Kamel</h1>
-
-<h3 align="center">Backend Developer | Node.js | TypeScript</h3>
+<h1 align="center">
+  👋 Hi, I'm Mostafa Kamel
+</h1>
 
 <p align="center">
-  Building scalable backend systems, real-time applications, and secure APIs.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Developer;Node.js+%7C+TypeScript+Developer;Building+Scalable+Backend+Systems;REST+APIs+%7C+Real-Time+Applications;Application+Security+%7C+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-kamel-2a1023314?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <b>Backend Developer focused on building scalable, secure and production-ready systems.</b>
 </p>
 
 ---
@@ -45,9 +53,22 @@
 
 ### Architecture & Engineering
 
-**SOLID · Design Patterns · Clean Architecture · Repository Pattern · Modular Architecture**
+<p align="center">
+  <img src="https://img.shields.io/badge/SOLID-Architecture-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-Patterns-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean-Architecture-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository-Pattern-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modular-Architecture-58A6FF?style=for-the-badge" />
+</p>
 
 ### Authentication & Security
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/OAuth-2.0-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge&logo=burpsuite" />
+</p>
 
 **JWT · OAuth 2.0 · Authentication · Authorization · OWASP Top 10 · Burp Suite · Penetration Testing**
 
@@ -60,6 +81,10 @@
 **Docker · AWS · Linux · Git · GitHub Actions**
 
 ### AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 **Python · NLP · Machine Learning · Deep Learning · LLM Integration**
 
@@ -94,6 +119,7 @@ A social media platform focused on real-time communication and scalable backend 
 
 - 🔐 JWT authentication
 - 💬 Private and group messaging
+- 👥 Group messaging and member management
 - ⚡ Real-time communication with Socket.IO
 - ✍️ Typing indicators
 - 👁️ Read receipts
@@ -116,32 +142,12 @@ An AI-powered platform designed to analyze user profiles and provide personalize
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mostafa-kamel-2a1023314?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
@@ -149,5 +155,5 @@ An AI-powered platform designed to analyze user profiles and provide personalize
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Building.+Learning.+Improving.+%F0%9F%9A%80;Turning+ideas+into+scalable+systems." />
 </p>
